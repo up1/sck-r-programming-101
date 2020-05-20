@@ -17,3 +17,4 @@
     * Inperative style
     * Descriptive style
   * Ploting
+  * [R datasets package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
